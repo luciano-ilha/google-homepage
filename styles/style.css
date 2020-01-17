@@ -1,0 +1,84 @@
+ul {
+    margin: 0;
+    list-style: none;
+    float: right;
+    min-width: 188px;
+    flex: 1 1 auto;
+    display: flex;
+    align-items: center;
+}
+
+li {
+    display: inline;
+    padding-left: 8px;
+    padding-right: 8px;
+    position: relative;
+    text-align: right;
+}
+
+#menu {
+    margin: 0;
+    height: 25px;
+    width: 25px;
+}
+
+#profile {
+    height: 45px;
+    width: 45px;
+}
+
+#googlelogo {
+    display: block;
+    text-align: center;
+    padding-top: 190px;
+    padding-bottom: 20px;
+}
+
+#search {
+    background: #fff;
+    display: flex;
+    border: 1px solid #dfe1e5;
+    box-shadow: 2px 2px 0px lightgray; 
+    height: 50px;
+    margin: 0 auto;
+    width: 587px;
+    border-radius: 24px;
+    margin-bottom: 18px;
+}
+
+#buttons {
+    display: block;
+    text-align: center;
+}
+
+#button1 {
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #5F6368;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+}
+
+#button2 {
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #5F6368;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+}
